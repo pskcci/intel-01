@@ -51,7 +51,7 @@
 | 10 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 11 LeeJeongHwan (founion) | n/a | - | - | - | litcoder | - | - | - |
 | 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | litcoder | - | - | - |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+| 13 GongByeongHyeon (Mazogorath) | n/a | - | - | - | litcoder | - | - | - |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 15 ParkSeongWon (Melody230427) | n/a | - | - | - | litcoder | - | - | - |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
