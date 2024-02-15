@@ -56,7 +56,7 @@
 | 15 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 17 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 18 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+| 18 CheonHoJin (StarTTearS) | n/a | - | - | - | litcoder | - | - | - |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
