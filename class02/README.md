@@ -40,7 +40,7 @@
 | 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | - | litcoder |
 | 06 KimHoJoon (elddy0948) | n/a | - | - | - | - | litcoder |
 | 07 KamDaGong (bluenight12) | n/a | - | - | - | - | litcoder |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 08 KimBoRam (brkim92) | n/a | - | - | - | - | litcoder |
 | 09 ChoiAYeong (ayeong3000) | n/a | - | - | - | - | litcoder |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 11 LeeJeongHwan (founion) | n/a | - | - | - | - | litcoder |
