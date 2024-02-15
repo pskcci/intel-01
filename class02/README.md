@@ -42,7 +42,7 @@
 | 07 KamDaGong (bluenight12) | n/a | - | - | - | - | litcoder |
 | 08 KimBoRam (brkim92) | n/a | - | - | - | - | litcoder |
 | 09 ChoiAYeong (ayeong3000) | n/a | - | - | - | - | litcoder |
-| 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 10 ShinEunSang (dmstkd537) | n/a | - | - | - | - | litcoder |
 | 11 LeeJeongHwan (founion) | n/a | - | - | - | - | litcoder |
 | 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | - | litcoder |
 | 13 GongByeongHyeon (Mazogorath) | n/a | - | - | - | - | litcoder |
