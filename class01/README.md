@@ -44,7 +44,7 @@
 | 03 SongSiKyeong (sika7492) | n/a | - | - | - | litcoder | - | - | - |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | litcoder | - | - | - |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+| 06 KimHoJoon (elddy0948) | n/a | - | - | - | litcoder | - | - | - |
 | 07 KamDaGong (bluenight12) | n/a | - | - | - | litcoder | - | - | - |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 09 CHoiAYeong (ayeong3000) | n/a | - | - | - | litcoder | - | - | - |
