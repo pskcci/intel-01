@@ -49,7 +49,7 @@
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 15 ParkSeongWon (Melody230427) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 17 KimYuKyoung (kyukyoung) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 18 CheonHoJin (StarTTearS) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
