@@ -55,7 +55,7 @@
 | 14 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+| 17 KimYuKyoung (kyukyoung) | n/a | - | - | - | litcoder | - | - | - |
 | 18 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
