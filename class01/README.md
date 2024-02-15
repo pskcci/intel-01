@@ -47,13 +47,13 @@
 | 06 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 07 KamDaGong (bluenight12) | n/a | - | - | - | litcoder | - | - | - |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+| 09 CHoiAYeong (ayeong3000) | n/a | - | - | - | litcoder | - | - | - |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | litcoder | - | - | - |
 | 13 GongByeongHyeon (Mazogorath) | n/a | - | - | - | litcoder | - | - | - |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 15 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+| 15 ParkSeongWon (Melody230427) | n/a | - | - | - | litcoder | - | - | - |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 17 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 18 CheonHoJin (StarTTearS) | n/a | - | - | - | litcoder | - | - | - |
