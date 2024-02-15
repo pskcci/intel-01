@@ -43,7 +43,7 @@
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 09 ChoiAYeong (ayeong3000) | n/a | - | - | - | - | litcoder |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 11 LeeJeongHwan (founion) | n/a | - | - | - | - | litcoder |
 | 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | - | litcoder |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
