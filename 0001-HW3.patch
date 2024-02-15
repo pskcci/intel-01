@@ -1,0 +1,111 @@
+From 00f2ada8b0719a52c3b9f4647d2b1b6fc02a7fd8 Mon Sep 17 00:00:00 2001
+From: yeju jo <eddie3023@gmail.com>
+Date: Thu, 15 Feb 2024 18:07:57 +0900
+Subject: [PATCH] HW3
+
+---
+ class01/README.md | 20 +++++++++----------
+ class02/README.md | 51 ++++++++++++++++++++++++-----------------------
+ 2 files changed, 36 insertions(+), 35 deletions(-)
+
+diff --git a/class01/README.md b/class01/README.md
+index 16cebc8..b36dc6b 100644
+--- a/class01/README.md
++++ b/class01/README.md
+@@ -39,24 +39,24 @@
+ 
+ | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviwer | HW#4 | HW#5 | Reviewer |
+ |-------------------------------|---------|------|------|------|---------|------|------|----------|
+-| 01 Leesongwon(Songwon93) | n/a | - | - | - | litcoder | - | - | - |
+-| 02 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+-| 03 SongSiKyeong (sika7492) | n/a | - | - | - | litcoder | - | - | - |
++| 01 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 02 JOYEJU (coco-mango) | n/a | - | - | - | litcoder | - | - | - |
++| 03 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 04 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+-| 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | litcoder | - | - | - |
+-| 06 KimHoJoon (elddy0948) | n/a | - | - | - | litcoder | - | - | - |
+-| 07 KamDaGong (bluenight12) | n/a | - | - | - | litcoder | - | - | - |
++| 05 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 06 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 07 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 08 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+-| 09 CHoiAYeong (ayeong3000) | n/a | - | - | - | litcoder | - | - | - |
++| 09 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 10 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 11 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+-| 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | litcoder | - | - | - |
++| 12 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 13 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 14 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+-| 15 ParkSeongWon (Melody230427) | n/a | - | - | - | litcoder | - | - | - |
++| 15 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 16 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 17 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+-| 18 CheonHoJin (StarTTearS) | n/a | - | - | - | litcoder | - | - | - |
++| 18 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 19 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 20 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+ | 21 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+diff --git a/class02/README.md b/class02/README.md
+index e310ce7..c510650 100644
+--- a/class02/README.md
++++ b/class02/README.md
+@@ -33,28 +33,29 @@
+ 
+ | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
+ |-------------------------------|---------|------|------|------|-------|----------|
+-| 01 LeesongWon (Songwon93) | n/a | - | - | - | - | litcoder |
+-| 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+-| 03 SongSiKyeong (sika7492) | n/a | - | - | - | - |litcoder |
+-| 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+-| 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | - | litcoder |
+-| 06 KimHoJoon (elddy0948) | n/a | - | - | - | - | litcoder |
+-| 07 KamDaGong (bluenight12) | n/a | - | - | - | - | litcoder |
+-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+-| 09 ChoiAYeong (ayeong3000) | n/a | - | - | - | - | litcoder |
+-| 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+-| 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | - | litcoder |
+-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+-| 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+-| 15 ParkSeongWon (Melody230427) | n/a | - | - | - | - | litcoder |
+-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+-| 18 CheonHoJin (StarTTearS) | n/a | - | - | - | - | jerry-jaeseong-lee |
+-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+-| 21 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+-| 22 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+-| 23 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+-| 24 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+-| 25 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
++| 01 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 02 JOYEJU (coco-mango) | n/a | - | - | - | litcoder | - | - | - |
++| 03 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 04 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 05 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 06 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 07 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 08 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 09 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 10 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 11 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 12 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 13 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 14 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 15 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 16 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 17 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 18 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 19 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 20 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 21 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 22 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 23 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 24 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++| 25 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
++
+-- 
+2.34.1
+
