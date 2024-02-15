@@ -35,21 +35,21 @@
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 LeesongWon (Songwon93) | n/a | - | - | - | - | litcoder |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 03 SongSiKyeong (sika7492) | n/a | - | - | - | litcoder | - | - | - |
+| 03 SongSiKyeong (sika7492) | n/a | - | - | - | - |litcoder |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | - | litcoder |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 06 KimHoJoon (elddy0948) | n/a | - | - | - | - | litcoder |
 | 07 KamDaGong (bluenight12) | n/a | - | - | - | - | litcoder |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 08 KimBoRam (brkim92) | n/a | - | - | - | - | litcoder |
+| 09 ChoiAYeong (ayeong3000) | n/a | - | - | - | - | litcoder |
 | 10 ShinEunSang (dmstkd537) | n/a | - | - | - | - | litcoder |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 11 LeeJeongHwan (founion) | n/a | - | - | - | - | litcoder |
 | 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | - | litcoder |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 13 GongByeongHyeon (Mazogorath) | n/a | - | - | - | - | litcoder |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 15 ParkSeongWon (Melody230427) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 17 KimYuKyoung (kyukyoung) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 18 CheonHoJin (StarTTearS) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
