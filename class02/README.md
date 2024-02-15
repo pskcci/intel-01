@@ -35,7 +35,7 @@
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 LeesongWon (Songwon93) | n/a | - | - | - | - | litcoder |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 03 SongSiKyeong (sika7492) | n/a | - | - | - | litcoder |
+| 03 SongSiKyeong (sika7492) | n/a | - | - | - | - |litcoder |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | - | litcoder |
 | 06 KimHoJoon (elddy0948) | n/a | - | - | - | - | litcoder |
