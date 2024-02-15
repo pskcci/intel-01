@@ -39,7 +39,7 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviwer | HW#4 | HW#5 | Reviewer |
 |-------------------------------|---------|------|------|------|---------|------|------|----------|
-| 01 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+| 01 Leesongwon(Songwon93) | n/a | - | - | - | litcoder | - | - | - |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 03 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
