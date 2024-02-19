@@ -1,10 +1,10 @@
-# digit
+# fashion
 
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import numpy as np
 
-mnist = tf.keras.datasets.mnist
+mnist = tf.keras.datasets.fashion_mnist
 
 (image_train, label_train), (image_test, label_test) = mnist.load_data()
 
