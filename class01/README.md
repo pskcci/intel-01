@@ -39,31 +39,23 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviwer | HW#4 | HW#5 | Reviewer |
 |-------------------------------|---------|------|------|------|---------|------|------|----------|
-| 01 Leesongwon(Songwon93) | n/a | - | - | - | litcoder | - | - | - |
-| 02 Joyeju (coco-mango) | n/a | - | - | - | litcoder | - | - | - |
-| 03 SongSiKyeong (sika7492) | n/a | - | - | - | litcoder | - | - | - |
-| 04 KimYongJe (synsan123) | n/a | - | - | - | litcoder | - | - | - |
-| 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | litcoder | - | - | - |
-| 06 KimHoJoon (elddy0948) | n/a | - | - | - | litcoder | - | - | - |
-| 07 KamDaGong (bluenight12) | n/a | - | - | - | litcoder | - | - | - |
-| 08 KimBoRam (brkim92) | n/a | - | - | - | litcoder | - | - | - |
-| 09 CHoiAYeong (ayeong3000) | n/a | - | - | - | litcoder | - | - | - |
-| 10 ShinEunSang (dmstkd537) | n/a | - | - | - | litcoder | - | - | - |
-| 11 LeeJeongHwan (founion) | n/a | - | - | - | litcoder | - | - | - |
-| 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | litcoder | - | - | - |
-| 13 GongByeongHyeon (Mazogorath) | n/a | - | - | - | litcoder | - | - | - |
-| 14 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 15 ParkSeongWon (Melody230427) | n/a | - | - | - | litcoder | - | - | - |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 17 KimYuKyoung (kyukyoung) | n/a | - | - | - | litcoder | - | - | - |
-| 18 CheonHoJin (StarTTearS) | n/a | - | - | - | litcoder | - | - | - |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 21 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 22 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 23 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 24 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
-| 25 KimYoungHee (abcde) | n/a | - | - | - | litcoder | - | - | - |
+| 01 Leesongwon(Songwon93) | n/a | - | - | - | litcoder | - | - | J-WBaek | 
+| 02 Joyeju (coco-mango) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 03 SongSiKyeong (sika7492) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 04 KimYongJe (synsan123) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 06 KimHoJoon (elddy0948) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 07 KamDaGong (bluenight12) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 08 KimBoRam (brkim92) | n/a | - | - | - | litcoder | - | - | J-WBaek |
+| 09 CHoiAYeong (ayeong3000) | n/a | - | - | - | litcoder | - | - | J-WBaek |
+| 10 ShinEunSang (dmstkd537) | n/a | - | - | - | litcoder | - | - | J-WBaek |
+| 11 LeeJeongHwan (founion) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 13 GongByeongHyeon (Mazogorath) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 14 ParkSeongWon (Melody230427) | n/a | - | - | - | litcoder | - | - | J-WBaek |
+| 15 KimYuKyoung (kyukyoung) | n/a | - | - | - | litcoder | - | - | J-WBaek |
+| 16 CheonHoJin (StarTTearS) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+
 
 ### Mini Projects
 
