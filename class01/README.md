@@ -55,6 +55,7 @@
 | 14 ParkSeongWon (Melody230427) | n/a | - | - | - | litcoder | - | - | J-WBaek |
 | 15 KimYuKyoung (kyukyoung) | n/a | - | - | - | litcoder | - | - | J-WBaek |
 | 16 CheonHoJin (StarTTearS) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 17 ChoiYoungJoong (themeg2) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 
 
 ### Mini Projects
