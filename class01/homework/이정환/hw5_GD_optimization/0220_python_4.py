@@ -1,0 +1,41 @@
+#배열 인덱싱
+import numpy as np
+
+a = np.array([10, 20, 30, 40, 50, 60])
+print(a)
+b = a[[4, 2, 0]]
+print(b)
+idx = np.arange(0, len(a))
+print(idx)
+np.random.shuffle(idx)
+print(idx)
+print(a[idx])
+
+c = np.array([1, 2, 3, 4, 5, 6])
+print(c[0])
+print(c[5])
+print(c[-1])
+print(c[-2])
+print(c[-6])
+print(c[0:2])
+print(c[2:5])
+print(c[:2])
+print(c[4:])
+print(c[-2:])
+print(c[:2], c[2:])
+print(c[:4], c[4:])
+print(np.arange(5, 10))
+
+word = 'Python'
+print(word[0])
+print(word[5])
+print(word[-1])
+print(word[-2])
+print(word[-6])
+print(word[0:2])
+print(word[2:5])
+print(word[:2])
+print(word[4:])
+print(word[-2:])
+print(word[:2] + word[2:])
+print(word[:4] + word[4:])
