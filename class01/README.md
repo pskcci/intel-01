@@ -46,7 +46,7 @@
 | 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 06 KimHoJoon (elddy0948) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 07 KamDaGong (bluenight12) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 08 KimBoRam (brkim92) | n/a | - | - | - | litcoder | - | - | J-WBaek |
+| 08 KimBoRam (brkim92) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 09 CHoiAYeong (ayeong3000) | n/a | - | - | - | litcoder | - | - | J-WBaek |
 | 10 ShinEunSang (dmstkd537) | n/a | - | - | - | litcoder | - | - | J-WBaek |
 | 11 LeeJeongHwan (founion) | n/a | - | - | - | litcoder | O | - | J-WBaek |
