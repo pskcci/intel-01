@@ -34,26 +34,26 @@
 * HW#1 :
 * HW#2 :
 * HW#3 :
-* HW#4 :
-* HW#5 :
+* HW#4 : https://github.com/pskcci/intel-01/issues/174
+* HW#5 : https://github.com/pskcci/intel-01/issues/189
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviwer | HW#4 | HW#5 | Reviewer |
 |-------------------------------|---------|------|------|------|---------|------|------|----------|
-| 01 Leesongwon(Songwon93) | n/a | - | - | - | litcoder | - | - | J-WBaek | 
+| 01 Leesongwon(Songwon93) | n/a | - | - | - | litcoder | O | - | J-WBaek | 
 | 02 Joyeju (coco-mango) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 03 SongSiKyeong (sika7492) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 04 KimYongJe (synsan123) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 06 KimHoJoon (elddy0948) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 07 KamDaGong (bluenight12) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 08 KimBoRam (brkim92) | n/a | - | - | - | litcoder | - | - | J-WBaek |
-| 09 CHoiAYeong (ayeong3000) | n/a | - | - | - | litcoder | - | - | J-WBaek |
-| 10 ShinEunSang (dmstkd537) | n/a | - | - | - | litcoder | - | - | J-WBaek |
+| 08 KimBoRam (brkim92) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 09 CHoiAYeong (ayeong3000) | n/a | - | - | - | litcoder | O | - | J-WBaek |
+| 10 ShinEunSang (dmstkd537) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 11 LeeJeongHwan (founion) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 13 GongByeongHyeon (Mazogorath) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 14 ParkSeongWon (Melody230427) | n/a | - | - | - | litcoder | - | - | J-WBaek |
-| 15 KimYuKyoung (kyukyoung) | n/a | - | - | - | litcoder | - | - | J-WBaek |
+| 15 KimYuKyoung (kyukyoung) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 | 16 CheonHoJin (StarTTearS) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 
 
