@@ -55,3 +55,17 @@
 * Project Github : 
 
 * 발표자료 : 
+
+### Team: GamKim
+
+<졸음을 인식하여 수업 집중도를 파악하는 프로그램>
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 감다공 | Project member, 프로젝트 멤버1 |
+  | 김호준 | Project member, 프로젝트 멤버2 |
+
+* Project Github : 
+
+* 발표자료 : 
