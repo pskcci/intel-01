@@ -82,4 +82,18 @@
 
 * Project Github : 
 
-* 발표자료 : 
+* 발표자료 :
+
+### Team: Lee&Jo
+
+<마이크를 통해 입력한 단어 3개를 조합하여 이미지를 생성하고, 이를 배경화면으로 적용하는 프로그램>
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 이송원 | Project member, 프로젝트 멤버1 |
+  | 조예주 | Project member, 프로젝트 멤버2 |
+
+* Project Github : 
+
+* 발표자료 :
