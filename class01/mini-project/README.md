@@ -27,3 +27,17 @@
 * Project Github : 
 
 * 발표자료 : 
+
+### Team: Choi & Song
+
+<Pose Estimation와 object-detection을 활용한 위험물 탐지  >
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 최영중 | Project member, 프로젝트 멤버1 |
+  | 송시경 | Project member, 프로젝트 멤버2 |
+
+* Project Github : 
+
+* 발표자료 : 
