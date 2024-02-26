@@ -55,3 +55,17 @@
 * Project Github : 
 
 * 발표자료 : 
+
+### Team: 김밥천국
+
+<MediaPipe 와 KNN을 통해 Pose Estimation 를 사용하여 가위바위보를 검출하고 승/패자를 나타내는 프로그램>
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 김보람 | Project member, 프로젝트 멤버1 |
+  | 천호진 | Project member, 프로젝트 멤버2 |
+
+* Project Github : 
+
+* 발표자료 : 
