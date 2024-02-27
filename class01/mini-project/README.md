@@ -80,9 +80,9 @@
   | 김보람 | Project member, 프로젝트 멤버1 |
   | 천호진 | Project member, 프로젝트 멤버2 |
 
-* Project Github : 
+* Project Github : https://github.com/brkim92/my-project/tree/main/Mini%20Project
 
-* 발표자료 :
+* 발표자료 : https://github.com/pskcci/intel-01/tree/main/class01/mini-project/06_%EA%B9%80%EB%B0%A5%EC%B2%9C%EA%B5%AD
 
 ### Team: Lee&Jo
 
