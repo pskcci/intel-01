@@ -52,9 +52,9 @@
   | 김용제 | Project member, 프로젝트 멤버1 |
   | 이경준 | Project member, 프로젝트 멤버2 |
 
-* Project Github : 
+* Project Github : https://github.com/rudwns04/OPENVINO_PROJECT.git
 
-* 발표자료 : 
+* 발표자료 : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/04_Kim%26Lee/miniproject_kim_lee.pptx
 
 ### Team: GamKim
 
