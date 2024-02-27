@@ -40,7 +40,7 @@
 
 * Project Github : https://github.com/themeg87/INTEL_LLM/tree/main/mini_project
 
-* 발표자료 : https://github.com/pskcci/intel-01/tree/main/class01/mini-project/03_Choi&Song/ppt\354\265\234\354\242\205.odp
+* 발표자료 : https://github.com/pskcci/intel-01/tree/main/class01/mini-project/03_Choi&Song/minipro.odp
 
 ### Team: Kim & Lee
 
