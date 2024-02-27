@@ -66,9 +66,9 @@
   | 감다공 | Project member, 프로젝트 멤버1 |
   | 김호준 | Project member, 프로젝트 멤버2 |
 
-* Project Github : 
+* Project Github : https://github.com/bluenight12/openvino/tree/main/eye-detection
 
-* 발표자료 : 
+* 발표자료 : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/05_GamKim/eye-detection/presentation.odp 
 
 ### Team: 김밥천국
 
