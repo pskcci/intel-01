@@ -38,9 +38,9 @@
   | 최영중 | Project member, 프로젝트 멤버1 |
   | 송시경 | Project member, 프로젝트 멤버2 |
 
-* Project Github : 
+* Project Github : https://github.com/themeg87/INTEL_LLM/tree/main/mini_project
 
-* 발표자료 :
+* 발표자료 : https://github.com/pskcci/intel-01/tree/main/class01/mini-project/03_Choi&Song/ppt\354\265\234\354\242\205.odp
 
 ### Team: Kim & Lee
 
