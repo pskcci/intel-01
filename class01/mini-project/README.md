@@ -9,9 +9,9 @@
   | 신은상 | Project member, 프로젝트 멤버1 |
   | 이정환 | Project member, 프로젝트 멤버2 |
 
-* Project Github : 
+* Project Github : https://github.com/founion/Intel_project/blob/main/Mini_Project/Mini_Project.py
 
-* 발표자료 : 
+* 발표자료 : https://github.com/founion/Intel_project/blob/main/Mini_Project/01_Mini%20Project.pptx
 
 
 ### Team: Gong & Lee
