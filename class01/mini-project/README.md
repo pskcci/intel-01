@@ -96,7 +96,7 @@
 
 * Project Github : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/07_Lee%26Jo/text2image.py
 
-* 발표자료 : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/07_Lee%26Jo/team7_leejo.pptx
+* 발표자료 : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/07_Lee%26Jo/team7_leejo_renew.pptx
 
 
 ### Team: CK
