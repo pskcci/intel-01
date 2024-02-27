@@ -11,7 +11,7 @@
 
 * Project Github : https://github.com/founion/Intel_project/blob/main/Mini_Project/Mini_Project.py
 
-* 발표자료 : https://github.com/founion/Intel_project/blob/main/Mini_Project/01_Mini%20Project.pptx
+* 발표자료 : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/01_Shin%26Lee/01_Mini%20Project.pptx
 
 
 ### Team: Gong & Lee
