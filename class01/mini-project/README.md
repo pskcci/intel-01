@@ -109,7 +109,7 @@
   | 김유경 | Project member, 프로젝트 멤버1 |
   | 최아영 | Project member, 프로젝트 멤버2 |
 
-* Project Github : 
+* Project Github : https://github.com/kyukyoung/CK/blob/main/miniProject/face/face.py
 
-* 발표자료 : 
+* 발표자료 : https://github.com/kyukyoung/CK/blob/main/miniProject/face/CK%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx
 
