@@ -24,9 +24,9 @@
   | 공병현 | Project member, 프로젝트 멤버1 |
   | 이중섭 | Project member, 프로젝트 멤버2 |
 
-* Project Github : 
+* Project Github : https://github.com/Mazogorath/OpenVinoProject
 
-* 발표자료 : 
+* 발표자료 : https://github.com/pskcci/intel-01/tree/main/class01/mini-project/02_Gong%26Lee/mini_project.odp
 
 ### Team: Choi & Song
 
