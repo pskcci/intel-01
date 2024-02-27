@@ -417,10 +417,10 @@ def run_object_detection(source=0, flip=False, use_popup=False, skip_first_frame
         if use_popup:
             cv2.destroyAllWindows()
 
-USE_WEBCAM = False
+USE_WEBCAM = True
 
 video_file = "http://localhost:8081"
-
+cam_id = 0
 source = cam_id if USE_WEBCAM else video_file
 
 run_object_detection(source=source, flip=isinstance(source, int), use_popup=True)
