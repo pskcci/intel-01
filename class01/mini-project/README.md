@@ -9,8 +9,8 @@
   | 신은상 | Project member, 프로젝트 멤버1 |
   | 이정환 | Project member, 프로젝트 멤버2 |
 
-* Project Github : https://github.com/founion/Intel_project/blob/main/Mini_Project/Mini_Project.py
-
+* Project Github : https://github.com/founion/Intel_project/blob/main/Mini_Project/Mini_Project(developed).py
+ 
 * 발표자료 : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/01_Shin%26Lee/01_Mini%20Project.pptx
 
 
