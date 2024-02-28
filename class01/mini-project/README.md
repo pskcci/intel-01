@@ -94,9 +94,9 @@
   | 이송원 | Project member, 프로젝트 멤버1 |
   | 조예주 | Project member, 프로젝트 멤버2 |
 
-* Project Github : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/07_Lee%26Jo/text2image.py
+* Project Github : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/07_Lee%26Jo/FinalCode_txt_to_img.py
 
-* 발표자료 : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/07_Lee%26Jo/team7_leejo_renew.pptx
+* 발표자료 : https://github.com/pskcci/intel-01/blob/main/class01/mini-project/07_Lee%26Jo/team7_leejo_final.pptx
 
 
 ### Team: CK
