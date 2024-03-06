@@ -73,6 +73,21 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
+### Team: 뭐먹
+
+<프로젝트 요약>
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 김보람 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
+  | 김용제 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | 이경준 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
+  | 천호진 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+  
+* Project Github : https://github.com/brkim92/Team_project
+* 발표자료 : 
+
 ### Team: 뭔가 센스있는 팀명
 
 <프로젝트 요약>
