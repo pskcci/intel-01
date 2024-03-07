@@ -80,10 +80,10 @@ $ find ./ -iname *.bin|xargs ls -l
 * Members
   | Name | Role |
   |----|----|
-  | 김보람 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 김용제 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 이경준 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다.|
-  | 천호진 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
+  | 김보람 | Project leader, 프로젝트 총괄 및 데이터셋 구성, 텍스트 입력시 음식 이미지 출력 코드 작성 |
+  | 김용제 | 이미지 검출 기능 및 음식 이미지 및 정보 출력 코드 작성, 코드 통합 |
+  | 이경준 | 이미지 검출 기능 및 음식 이미지 및 정보 출력 코드 작성 |
+  | 천호진 | 데이터셋 구성, 모델 학습, PPT제작 및 발표 |
   
 * Project Github : https://github.com/brkim92/Team_project
 * 발표자료 : 
