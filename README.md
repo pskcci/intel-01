@@ -91,21 +91,22 @@ $ find ./ -iname *.bin|xargs ls -l
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
 
-### Team: 다찍
 
-<프로젝트 요약>
-생성형 AI를 통해 STT로 문장을 받아, 사진을 찍고 배경과 옷을 사용자의 텍스트에 맞춰서 인화 시켜주는 사진관
+### Team: 다입
+
+<프로젝트 요약>  
+다입은 '다 입게해줄게'라는 뜻으로, 의류 매장에 등록되어 있는 옷들을 바탕으로 옷을 데이터베이스에 넣어 직접 선택해 입혀주거나 고객이 선택하기 힘들다면 말(Speech-to-Text)로 추천을 받아 랜덤으로 그와 비슷한 옷을 입혀주고 배경을 바꾸고 싶다면 배경까지 바꿔서 본인의 의상 착용샷을 보여주는 의류 매장 AI 키오스크
 
 * Members
   | Name | Role |
   |----|----|
-  | 감다공 | Project lead, Cloth Manage, 프로젝트를 총괄, 사람을 추출하고 추천받은 옷을 바탕으로 옷을 바꿔준다 |
+  | 감다공 | Project lead, Cloth Manage, 프로젝트를 총괄, 기존의 옷으로 사진의 옷을 바꿔준다. |
   | 이송원 | STT Algorithm, Background Manage, 음성을 추출하고 그 음성을 바탕으로 배경을 만든다. |
   | 조예주 | STT Algorithm, Background Manage, 음성을 추출하고 그 음성을 바탕으로 배경을 만든다. |
   | 송시경 | Gesture, Face Modeling, 얼굴을 인식하고 제스쳐를 인식해 기능을 구현한다. |
 
-* Project Github : https://github.com/bluenight12/dajjik.git
+* Project Github : https://github.com/bluenight12/da-ipp.git
 
-* 발표자료 : https://github.com/bluenight12/dajjik/blob/main/present.ppt
+* 발표자료 : https://github.com/bluenight12/da-ipp/blob/main/present.ppt
 
 
