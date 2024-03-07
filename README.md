@@ -104,8 +104,8 @@ $ find ./ -iname *.bin|xargs ls -l
   | 조예주 | STT Algorithm, Background Manage, 음성을 추출하고 그 음성을 바탕으로 배경을 만든다. |
   | 송시경 | Gesture, Face Modeling, 얼굴을 인식하고 제스쳐를 인식해 기능을 구현한다. |
 
-* Project Github : https://github.com/bluenight12/team-04.git
+* Project Github : https://github.com/bluenight12/dajjik.git
 
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+* 발표자료 : https://github.com/bluenight12/dajjik/blob/main/present.ppt
 
 
