@@ -127,3 +127,19 @@ $ find ./ -iname *.bin|xargs ls -l
 * 발표자료 : https://github.com/bluenight12/da-ipp/blob/main/present.ppt
 
 
+### Team: 한살차이.Zip
+
+<프로젝트 요약>  
+IoT Project - 스마트 홈 보안 및 환경 관리 시스템
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 최아영 | Project lead, MCU 제어|
+  | 김유경 | MCU 제어  |
+  | 김호준 | MCU 제어  |
+  | 이정환 | MCU 제어  |
+
+* Project Github : https://github.com/One-year-apart-ZIP/IoT-project
+* 발표자료 : -
+
