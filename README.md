@@ -73,20 +73,19 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
-### Team: 뭔가 센스있는 팀명
+### Team: IC (Inventory Controllers)
 
-<프로젝트 요약>
+직원과 물건의 확인을 바탕으로 한 재고 관리 자동화 프로젝트
 
 * Members
   | Name | Role |
   |----|----|
-  | 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
+  | 공병현 | 프로젝트 총괄, 얼굴 인식 구현 |
+  | 신은상 | 발표 준비, RFID 구현 |
+  | 이중섭 | Github 관리, 사물 인식 구현 |
+  | 최영중 | 서버 관리, 음성 인식 구현 |
 
-* Project Github : https://github.com/goodsense/project_awesome.git
+* Project Github : https://github.com/Mazogorath/AI_Inventory.git
 
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+* 발표자료 : https://github.com/Mazogorath/AI_Inventory/blob/main/doc/Presentation.pptx
 
