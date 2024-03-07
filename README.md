@@ -75,7 +75,7 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### Team: 뭔가 센스있는 팀명
 
-<프로젝트 요약>
+직원과 물건의 확인을 바탕으로 한 재고 관리 자동화 프로젝트
 
 * Members
   | Name | Role |
