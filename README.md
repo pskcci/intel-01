@@ -73,6 +73,24 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
+
+### Team: 뭐먹
+
+<"오늘 뭐 먹지?"라는 질문을 했을 때 랜덤하게 음식의 이미지와 정보를 출력해주는 프로그램>
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 김보람 | Project leader, 프로젝트 총괄 및 데이터셋 구성, 텍스트 입력시 음식 이미지 출력 코드 작성 |
+  | 김용제 | 이미지 검출 기능 및 음식 이미지 및 정보 출력 코드 작성, 코드 통합 |
+  | 이경준 | 이미지 검출 기능 및 음식 이미지 및 정보 출력 코드 작성 |
+  | 천호진 | 데이터셋 구성, 모델 학습, PPT제작 및 발표 |
+  
+* Project Github : https://github.com/brkim92/Team_project
+* 발표자료 : 
+
+
+
 ### Team: IC (Inventory Controllers)
 
 직원과 물건의 확인을 바탕으로 한 재고 관리 자동화 프로젝트
