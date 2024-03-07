@@ -80,13 +80,12 @@ $ find ./ -iname *.bin|xargs ls -l
 * Members
   | Name | Role |
   |----|----|
-  | 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
+  | 공병현 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
+  | 신은상 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | 이중섭 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
+  | 최영중 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
 
-* Project Github : https://github.com/goodsense/project_awesome.git
+* Project Github : https://github.com/Mazogorath/AI_Inventory.git
 
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+* 발표자료 : https://github.com/Mazogorath/AI_Inventory/blob/main/doc/Presentation.pptx
 
