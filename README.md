@@ -135,10 +135,10 @@ IoT Project - 스마트 홈 보안 및 환경 관리 시스템
 * Members
   | Name | Role |
   |----|----|
-  | 최아영 | Project lead, MCU 제어|
-  | 김유경 | MCU 제어  |
-  | 김호준 | MCU 제어  |
-  | 이정환 | MCU 제어  |
+  | 최아영 | Project lead, 프로젝트 총괄, 에너지 절약 기능 MCU 제어, 서버 통신 관리|
+  | 김유경 | 도어락 기능 MCU 제어, 도어락 기능 DB관리  |
+  | 김호준 | 에너지 절약 기능 MCU 제어, 에너지 절약 기능 DB관리 |
+  | 이정환 | 도어락 기능 MCU 제어, 도어락 기능 AI image processing|
 
 * Project Github : https://github.com/One-year-apart-ZIP/IoT-project
 * 발표자료 : -
