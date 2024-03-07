@@ -90,3 +90,22 @@ $ find ./ -iname *.bin|xargs ls -l
 
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
+
+### Team: 다찍
+
+<프로젝트 요약>
+생성형 AI를 통해 STT로 문장을 받아, 사진을 찍고 배경과 옷을 바꿔서 인화 시켜주는 사진관
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 감다공 | Project lead, Cloth Manage, 프로젝트를 총괄, 사람을 추출하고 추천받은 옷을 바탕으로 옷을 바꿔준다 |
+  | 이송원 | STT Algorithm, Background Manage, 음성을 추출하고 그 음성을 바탕으로 배경을 만든다. |
+  | 조예주 | STT Algorithm, Background Manage, 음성을 추출하고 그 음성을 바탕으로 배경을 만든다. |
+  | 송시경 | Gesture, Face Modeling, 얼굴을 인식하고 제스쳐를 인식해 기능을 구현한다. |
+
+* Project Github : https://github.com/bluenight12/team-04.git
+
+* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+
+
