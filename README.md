@@ -87,7 +87,7 @@ $ find ./ -iname *.bin|xargs ls -l
   | 천호진 | 데이터셋 구성, 모델 학습, PPT제작 및 발표 |
   
 * Project Github : https://github.com/brkim92/Team_project
-* 발표자료 : 
+* 발표자료 : https://github.com/brkim92/Team_project/blob/main/presentation.ppt
 
 
 
