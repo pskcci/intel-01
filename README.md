@@ -141,5 +141,5 @@ IoT Project - 스마트 홈 보안 및 환경 관리 시스템
   | 이정환 | 도어락 기능 MCU 제어, 도어락 기능 AI image processing|
 
 * Project Github : https://github.com/One-year-apart-ZIP/IoT-project
-* 발표자료 : -
+* 발표자료 : https://github.com/One-year-apart-ZIP/IoT-project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.pptx
 
